@@ -172,6 +172,7 @@ Yulia Lantzberg
 -[Bogi] **Simple and Easy :D**
 -[Varun] **Hi there :D**
 -[s0lder] ** <3 open source **
+-[Morratz] **Giving back to the developer community in open source**
 -Syed Suleman
 -Samir Almeida
 -Shereyar Ali (Shits Tough But Fun)
